@@ -1,0 +1,29 @@
+{
+  "name": "js_hanjs",
+  "version": "1.0.0",
+  "description": "한국어로 JavaScript를 사용할 수 있게 도와주는 감성 유틸리티",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yihimin/js_hanjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "한글",
+    "한국어",
+    "dsl",
+    "교육용"
+  ],
+  "author": "yihimin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yihimin/js_hanjs/issues"
+  },
+  "homepage": "https://github.com/yihimin/js_hanjs#readme"
+}
